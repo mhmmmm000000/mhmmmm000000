@@ -1,4 +1,4 @@
-## 😊 About Me
+## 🤷‍♂️ About Me
 
 - [🤖] I code bots, mods, and hacks for fun.
 
