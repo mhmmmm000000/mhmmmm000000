@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**mhmmmm000000/mhmmmm000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+## 😺 About Me
 
-Here are some ideas to get you started:
+- [🤖] I code bots, mods, and hacks for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🔣] **Languages**: Python, C#, HTML, and JS.
+
+- [🛠️] **Tools**: Selenium, CustomTkinter, HuggingFace, Git
+
+- [🎯] **Focus**: Web Automation, AI Integration, Reverse Engineering
+
+## ⚙️ My Projects
+
+- 🧠 **IXLAutoAnswerBot** ( [Github](https://github.com/mhmmmm000000/IXL-Auto-Answer-Bot) | `Python` | 🟢 Actively maintained )
+  - An AI-powered math automation suite with stealth GUI, grade farming, and anti-detection.
+
+## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=mhmmmm000000)
+```
+````
