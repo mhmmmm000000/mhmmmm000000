@@ -1,5 +1,4 @@
-```text
-## 😺 About Me
+## 😊 About Me
 
 - [🤖] I code bots, mods, and hacks for fun.
 
@@ -17,6 +16,10 @@
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhmmmm000000)
 
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=mhmmmm000000&color=blueviolet&style=flat-square)
-```
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mhmmmm000000&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmmmm000000&theme=dark&hide_border=true)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mhmmmm000000&style=flat" alt="Profile Views" />
+</p>
