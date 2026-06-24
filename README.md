@@ -2,9 +2,9 @@
 
 - [🤖] I code bots, mods, and hacks for fun.
 
-- [🔣] **Languages**: Python, C#, HTML, and JS.
+- [🔣] **Languages**: Python, C#, HTML,C++, and JS.
 
-- [🛠️] **Tools**: Selenium, CustomTkinter, HuggingFace, Git
+- [🛠️] **Tools**: Selenium, CustomTkinter, HuggingFace, Git, Dumper-7
 
 - [🎯] **Focus**: Web Automation, AI Integration, Reverse Engineering
 
