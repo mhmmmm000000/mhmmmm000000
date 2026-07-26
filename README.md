@@ -14,7 +14,7 @@
   - An AI-powered math automation suite with stealth GUI, grade farming, and anti-detection.
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mhmmmm000000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhmmmm000000&theme=onedark&v=1)](https://github.com/mhmmmm000000)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mhmmmm000000&show_icons=true&theme=dark&hide_border=true)
